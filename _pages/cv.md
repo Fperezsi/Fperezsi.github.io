@@ -18,29 +18,39 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Graduate Research assistance
+  * George Mason University
+  * Supervisor: Dr. Harbir Antil
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Graduate Teaching Assistant
+  * George Mason University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2024:Term professor
+  * Universidad Tecnica Federico Santa Maria
+
+* Fall 2023: Graduate Research assistance
+  * Universidad Tecnica Federico Santa Maria
+  * Supervisor: Dr. Leonelo Iturriaga
+
+* Fall 2023: Lab assistance
+  * Universidad Tecnica Federico Santa Maria
+
+* Spring 2023: Graduate Research assistance
+  * Universidad Tecnica Federico Santa Maria
+  * Supervisor: Dr. Leonelo Iturriaga
+
+* Spring 2023: Lab assistance
+  * Universidad Tecnica Federico Santa Maria
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Spanish
+  * English
+* Coding
+  * Python
+  * Matlab
+  * Latex
 
 Publications
 ======
