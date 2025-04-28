@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Felipe / Felipe Pérez sILVA"
+title                    : "Felipe / Felipe Perez Silva"
 title_separator          : "-"
 name                     : &name "Felipe"
 description              : &description "PhD student at George mASON uNIVERSITY. I am a PhD student in the Department of Computer Science at George Mason University. My research interests are in the areas of NONLINEAR ANALYSIS OF PARTIAL DIFFERENTIAL EQUATIONS."
@@ -23,7 +23,7 @@ repository               :  "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Felipe Pérez Silva" # Name to display in the sidebar
+  name             : "Felipe Perez Silva" # Name to display in the sidebar
   pronouns         : # example: "she/her"  
   bio              : "PhD student at George Mason University.
   location         : "United States, Virginia" # Location to display in the sidebar
