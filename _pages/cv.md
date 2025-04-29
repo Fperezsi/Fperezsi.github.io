@@ -25,7 +25,7 @@ Work experience
 * Fall 2024: Graduate Teaching Assistant
   * George Mason University
 
-* Spring 2024:Term professor
+* Spring 2024: Term professor
   * Universidad Tecnica Federico Santa Maria
 
 * Fall 2023: Graduate Research assistance
