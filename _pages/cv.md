@@ -46,47 +46,47 @@ Work experience
   * Universidad Tecnica Federico Santa Maria
   * Supervisor: Dr. Leonelo Iturriaga
 
-* Spring 2022: Graduate Teaching Assistant
+* Spring 2022: Teaching Assistant
   * Universidad Tecnica Federico Santa Maria
 
 * Spring 2022: Graduate Research assistance
   * Universidad Tecnica Federico Santa Maria
   * Supervisor: Dr. Leonelo Iturriaga
   
-* Fall 2021: Graduate Research assistance
+* Fall 2021: Research assistance
   * Universidad Tecnica Federico Santa Maria
   * Supervisor: Dr. Leonelo Iturriaga
 
-* Spring 2021: Graduate Teaching Assistant
+* Spring 2021: Teaching Assistant
   * Universidad Tecnica Federico Santa Maria
 
-* Spring 2021: Graduate Research assistance
-  * Universidad Tecnica Federico Santa Maria
-  * Supervisor: Dr. Leonelo Iturriaga
-
-* Summer 2021: Graduate Research assistance
+* Spring 2021: Research assistance
   * Universidad Tecnica Federico Santa Maria
   * Supervisor: Dr. Leonelo Iturriaga
 
-* Fall 2020: Graduate Teaching Assistant
+* Summer 2021: Research assistance
+  * Universidad Tecnica Federico Santa Maria
+  * Supervisor: Dr. Leonelo Iturriaga
+
+* Fall 2020: Teaching Assistant
   * Universidad Tecnica Federico Santa Maria
 
-* Spring 2020: Graduate Teaching Assistant
+* Spring 2020: Teaching Assistant
   * Universidad Tecnica Federico Santa Maria
 
 * Summer 2020: Engineer Intern
   * Inria Chile
 
-* Fall 2019: Graduate Teaching Assistant
+* Fall 2019: Teaching Assistant
   * Universidad Tecnica Federico Santa Maria
 
-* Spring 2019: Graduate Teaching Assistant
+* Spring 2019: Teaching Assistant
   * Universidad Tecnica Federico Santa Maria
 
-* Fall 2018: Graduate Teaching Assistant
+* Fall 2018: Teaching Assistant
   * Universidad Tecnica Federico Santa Maria
 
-* Spring 2018: Graduate Teaching Assistant
+* Spring 2018: Teaching Assistant
   * Universidad Tecnica Federico Santa Maria
 
 Skills
