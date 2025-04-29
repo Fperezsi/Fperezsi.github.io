@@ -41,7 +41,54 @@ Work experience
 
 * Spring 2023: Lab assistance
   * Universidad Tecnica Federico Santa Maria
+
+* Fall 2022: Graduate Research assistance
+  * Universidad Tecnica Federico Santa Maria
+  * Supervisor: Dr. Leonelo Iturriaga
+
+* Spring 2022: Graduate Teaching Assistant
+  * Universidad Tecnica Federico Santa Maria
+
+* Spring 2022: Graduate Research assistance
+  * Universidad Tecnica Federico Santa Maria
+  * Supervisor: Dr. Leonelo Iturriaga
   
+* Fall 2021: Graduate Research assistance
+  * Universidad Tecnica Federico Santa Maria
+  * Supervisor: Dr. Leonelo Iturriaga
+
+* Spring 2021: Graduate Teaching Assistant
+  * Universidad Tecnica Federico Santa Maria
+
+* Spring 2021: Graduate Research assistance
+  * Universidad Tecnica Federico Santa Maria
+  * Supervisor: Dr. Leonelo Iturriaga
+
+* Summer 2021: Graduate Research assistance
+  * Universidad Tecnica Federico Santa Maria
+  * Supervisor: Dr. Leonelo Iturriaga
+
+* Fall 2020: Graduate Teaching Assistant
+  * Universidad Tecnica Federico Santa Maria
+
+* Spring 2020: Graduate Teaching Assistant
+  * Universidad Tecnica Federico Santa Maria
+
+* Summer 2020: Engineer Intern
+  * Inria Chile
+
+* Fall 2019: Graduate Teaching Assistant
+  * Universidad Tecnica Federico Santa Maria
+
+* Spring 2019: Graduate Teaching Assistant
+  * Universidad Tecnica Federico Santa Maria
+
+* Fall 2018: Graduate Teaching Assistant
+  * Universidad Tecnica Federico Santa Maria
+
+* Spring 2018: Graduate Teaching Assistant
+  * Universidad Tecnica Federico Santa Maria
+
 Skills
 ======
 * Languages
@@ -70,6 +117,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
