@@ -1,10 +1,10 @@
 ---
-title: "Spring 2023"
+title: "Fall 2023"
 collection: teaching
 type: "Lab Assistant: Undergraduate courses"
-permalink: /teaching/2023-spring-teaching/
+permalink: /teaching/2023-fall-teaching/
 venue: "Universidad Tecnica Federico Santa Maria"
-date: 2023-03-01
+date: 2023-09-01
 location: "Santiago, Chile"
 excerpt: "Courses: MAT021"
 ---
