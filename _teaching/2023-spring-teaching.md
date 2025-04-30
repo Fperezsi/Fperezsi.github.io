@@ -9,4 +9,10 @@ location: "Santiago, Chile"
 excerpt: "Courses: MAT021, MAT022, MAT012"
 ---
 
-These courses were recitations aimed at reinforcing key concepts taught in the main lectures. Detailed information about the content and activities will be added soon.
+### Courses
+
+- **MAT021** – (Course description coming soon)
+
+- **MAT022** – (Course description coming soon)
+
+- **MAT012** – (Course description coming soon)

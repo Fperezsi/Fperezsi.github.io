@@ -1,0 +1,14 @@
+<article class="archive-item">
+    <h2>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+    <p>
+      <strong>{{ post.venue }}</strong>
+      <br />
+      {{ post.date | date: "%B %Y" }} — {{ post.location }}
+    </p>
+    {% if post.excerpt %}
+      <p>{{ post.excerpt }}</p>
+    {% endif %}
+  </article>
+  
