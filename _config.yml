@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Felipe / Felipe Perez Silva"
+title                    : "GMU / Felipe Perez Silva"
 title_separator          : "-"
 name                     : &name "Felipe"
 description              : &description "PhD student at George mASON uNIVERSITY. I am a PhD student in the Department of Computer Science at George Mason University. My research interests are in the areas of NONLINEAR ANALYSIS OF PARTIAL DIFFERENTIAL EQUATIONS."
@@ -219,9 +219,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -265,15 +262,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
