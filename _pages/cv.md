@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download a shorter version (PDF)](/files/CV.pdf){:target="_blank"}
+
+
 Education
 ======
 * Ph.D in Mathemathics, George Mason University, 2024-(expected)
