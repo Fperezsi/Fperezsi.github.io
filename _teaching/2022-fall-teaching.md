@@ -4,7 +4,7 @@ collection: teaching
 type: "Recitation: Undergraduate courses"
 permalink: /teaching/2022-spring-teaching/
 venue: "Universidad Técnica Federico Santa María"
-date: 2022-03-01
+date: 2022-09-01
 location: "Santiago, Chile"
 excerpt: "Courses: MAT247"
 ---
