@@ -16,78 +16,79 @@ Education
 * Engr. in Mathematical, Universidad Tecnica Federico Santa Maria, 2017-2023
 * B.S. in Science Mathematical Engineering, Universidad Tecnica Federico Santa Maria, 2017-2020
 
-Work experience
-======
-* Spring 2025: Graduate Research assistance
-  * George Mason University
+Work Experience
+===============
+
+* Spring 2025: Graduate Research Assistant  
+  * George Mason University  
   * Supervisor: Dr. Harbir Antil
 
-* Fall 2024: Graduate Teaching Assistant
+* Fall 2024: Graduate Teaching Assistant  
   * George Mason University
 
-* Spring 2024: Term professor
-  * Universidad Tecnica Federico Santa Maria
+* Spring 2024: Term Professor  
+  * Universidad Técnica Federico Santa María
 
-* Fall 2023: Graduate Research assistance
-  * Universidad Tecnica Federico Santa Maria
+* Fall 2023: Graduate Research Assistant  
+  * Universidad Técnica Federico Santa María  
   * Supervisor: Dr. Leonelo Iturriaga
 
-* Fall 2023: Lab assistance
-  * Universidad Tecnica Federico Santa Maria
+* Fall 2023: Lab Assistant  
+  * Universidad Técnica Federico Santa María
 
-* Spring 2023: Graduate Research assistance
-  * Universidad Tecnica Federico Santa Maria
+* Spring 2023: Graduate Research Assistant  
+  * Universidad Técnica Federico Santa María  
   * Supervisor: Dr. Leonelo Iturriaga
 
-* Spring 2023: Lab assistance
-  * Universidad Tecnica Federico Santa Maria
+* Spring 2023: Lab Assistant  
+  * Universidad Técnica Federico Santa María
 
-* Fall 2022: Graduate Research assistance
-  * Universidad Tecnica Federico Santa Maria
+* Fall 2022: Graduate Research Assistant  
+  * Universidad Técnica Federico Santa María  
   * Supervisor: Dr. Leonelo Iturriaga
 
-* Spring 2022: Teaching Assistant
-  * Universidad Tecnica Federico Santa Maria
+* Spring 2022: Teaching Assistant  
+  * Universidad Técnica Federico Santa María
 
-* Spring 2022: Graduate Research assistance
-  * Universidad Tecnica Federico Santa Maria
-  * Supervisor: Dr. Leonelo Iturriaga
-  
-* Fall 2021: Research assistance
-  * Universidad Tecnica Federico Santa Maria
+* Spring 2022: Graduate Research Assistant  
+  * Universidad Técnica Federico Santa María  
   * Supervisor: Dr. Leonelo Iturriaga
 
-* Spring 2021: Teaching Assistant
-  * Universidad Tecnica Federico Santa Maria
-
-* Spring 2021: Research assistance
-  * Universidad Tecnica Federico Santa Maria
+* Fall 2021: Research Assistant  
+  * Universidad Técnica Federico Santa María  
   * Supervisor: Dr. Leonelo Iturriaga
 
-* Summer 2021: Research assistance
-  * Universidad Tecnica Federico Santa Maria
+* Spring 2021: Teaching Assistant  
+  * Universidad Técnica Federico Santa María
+
+* Spring 2021: Research Assistant  
+  * Universidad Técnica Federico Santa María  
   * Supervisor: Dr. Leonelo Iturriaga
 
-* Fall 2020: Teaching Assistant
-  * Universidad Tecnica Federico Santa Maria
+* Summer 2021: Research Assistant  
+  * Universidad Técnica Federico Santa María  
+  * Supervisor: Dr. Leonelo Iturriaga
 
-* Spring 2020: Teaching Assistant
-  * Universidad Tecnica Federico Santa Maria
+* Fall 2020: Teaching Assistant  
+  * Universidad Técnica Federico Santa María
 
-* Summer 2020: Engineer Intern
+* Spring 2020: Teaching Assistant  
+  * Universidad Técnica Federico Santa María
+
+* Summer 2020: Engineer Intern  
   * Inria Chile
 
-* Fall 2019: Teaching Assistant
-  * Universidad Tecnica Federico Santa Maria
+* Fall 2019: Teaching Assistant  
+  * Universidad Técnica Federico Santa María
 
-* Spring 2019: Teaching Assistant
-  * Universidad Tecnica Federico Santa Maria
+* Spring 2019: Teaching Assistant  
+  * Universidad Técnica Federico Santa María
 
-* Fall 2018: Teaching Assistant
-  * Universidad Tecnica Federico Santa Maria
+* Fall 2018: Teaching Assistant  
+  * Universidad Técnica Federico Santa María
 
-* Spring 2018: Teaching Assistant
-  * Universidad Tecnica Federico Santa Maria
+* Spring 2018: Teaching Assistant  
+  * Universidad Técnica Federico Santa María
 
 Skills
 ======
