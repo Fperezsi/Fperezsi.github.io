@@ -1,16 +1,13 @@
 ---
-title: "Fall 2024"
+title: "Calculus I and II"
 collection: teaching
-type: "Recitation: Undergraduate courses"
-permalink: /teaching/2024-fall-teaching/
-venue: "George Mason University"
+type: "Graduate Teaching Assistant"
+permalink: /teaching/2024-fall-teaching
+venue: "George Mason University, Department of Mathematical Sciences"
 date: 2024-09-01
-location: "VA, USA"
-excerpt: "Courses: MATH013, MATH014"
+location: "Fairfax, VA, USA"
 ---
 
-### Courses
+Graduate Teaching Assistant for **Calculus I** and **Calculus II** at George Mason University. Responsibilities included leading recitation sections, holding weekly office hours, grading exams and assignments, and answering student questions on the underlying theory and computational techniques.
 
-- **MATH013** – (Course description coming soon)
-
-- **MATH014** – (Course description coming soon)
+Courses: MATH 113 (Calculus I), MATH 114 (Calculus II).

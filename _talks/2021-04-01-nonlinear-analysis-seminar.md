@@ -1,12 +1,11 @@
 ---
 title: "Seminar on Nonlinear Analysis of Partial Differential Equations"
 collection: talks
-type: "Talk"
+type: "Seminar series"
 permalink: /talks/2021-04-01-nonlinear-analysis-seminar
-venue: "Universidad Técnica Federico Santa María"
+venue: "Universidad Técnica Federico Santa María (Doctoral Program)"
 date: 2021-04-01
-location: "Santiago, Chile"
-author_profile: true
+location: "Valparaíso, Chile"
 ---
 
-This talk primarily focused on techniques to demonstrate the existence of solutions for nonlinear partial differential equations. Minimax theorems, such as the Mountain Pass Theorem and the Linking Theorem, were introduced. I also covered essential background techniques, including the Nemytskii Operator and the Deformation Lemma. The seminar lasted for two months.
+A semester-long doctoral working seminar on nonlinear analysis of partial differential equations, in which I participated as a regular presenter. My talks introduced techniques for proving existence of solutions to nonlinear PDEs, including minimax theorems (the Mountain Pass Theorem and the Linking Theorem) and the supporting machinery: the Nemytskii operator, the Deformation Lemma, and Palais–Smale-type compactness conditions.
