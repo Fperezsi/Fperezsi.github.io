@@ -12,4 +12,3 @@ We establish existence and multiplicity of positive solutions for a class of qua
 
 **Status:** Submitted, 2025.
 
-Recommended citation: L. Iturriaga and F. Pérez. (2025). "Existence and Multiplicity of Positive Solutions for a Quasilinear Problem with Nonhomogeneous Dirichlet Condition." *Preprint*.

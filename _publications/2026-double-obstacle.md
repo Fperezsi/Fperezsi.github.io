@@ -11,5 +11,3 @@ citation: 'H. Antil and F. Pérez. (2026). &quot;Duality Framework for the Doubl
 A convex-duality approach to the double obstacle problem. We address well-posedness and analytical properties, develop a numerical scheme, and provide supporting experiments.
 
 **Status:** In preparation, 2026.
-
-Recommended citation: H. Antil and F. Pérez. (2026). "Duality Framework for the Double Obstacle Problem: Analysis and Numerics." *In preparation*.

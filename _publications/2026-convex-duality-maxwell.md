@@ -12,4 +12,3 @@ A convex-duality framework for curl–curl Maxwell problems subject to pointwise
 
 **Status:** In preparation, 2026.
 
-Recommended citation: H. Antil, A. Kaltenbach, F. Pérez, T. Prieto, and V. Lagos. (2026). "Convex Duality and Guaranteed A Posteriori Error Control for Curl–Curl Maxwell Problems with Pointwise Field Bounds." *In preparation*.

@@ -12,4 +12,3 @@ A convex-duality framework for flow problems subject to flux constraints. The wo
 
 **Status:** In preparation, 2026.
 
-Recommended citation: H. Antil, K. L. A. Kirk, and F. Pérez. (2026). "Duality Framework for Flux Constrained Flow: Analysis and Numerics." *In preparation*.
