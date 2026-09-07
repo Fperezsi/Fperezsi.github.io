@@ -17,11 +17,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
-<h2>In Preparation</h2><hr />
-{% for post in site.publications reversed %}
-  {% if post.venue contains "preparation" or post.venue contains "Preparation" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
