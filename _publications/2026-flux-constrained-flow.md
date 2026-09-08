@@ -5,6 +5,7 @@ permalink: /publication/2026-flux-constrained-flow
 excerpt: 'A duality framework for flow problems with flux constraints, addressing both the analytical foundations and the numerical realization via finite elements.'
 date: 2026-01-01
 venue: 'Preprint (submitted)'
+paperurl: 'https://arxiv.org/abs/2607.13256'
 citation: 'H. Antil, K. L. A. Kirk, and F. Pérez. (2026). &quot;Duality Framework for Flux Constrained Flow: Analysis and Numerics.&quot; <i>Preprint</i>. arXiv:2607.13256.'
 ---
 
