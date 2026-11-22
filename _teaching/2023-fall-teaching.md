@@ -1,17 +1,18 @@
 ---
-title: "MAT021 — USM"
+title: "MAT060 — USM"
 collection: teaching
 type: "Laboratory Assistant"
 permalink: /teaching/2023-fall-teaching
 venue: "Universidad Técnica Federico Santa María, Department of Mathematics"
 date: 2023-09-01
-location: "Santiago, Chile"
+term: "Fall 2023"
+location: "San Joaquín Campus, Santiago, Chile"
 ---
 
-**Laboratory Assistant** for **MAT021 — Mathematics I**. Responsibilities consisted of authoring original problems and worked solutions in differential calculus, uploading them to the department's online platform, and scheduling the quizzes. The platform served all sections of MAT021 across the university, giving students problems to prepare for examinations and providing instructors with current data on cohort performance.
+Laboratory Assistant for MAT060 — Algebra and Analytic Geometry. Responsibilities consisted of authoring original problems and worked solutions, uploading them to the department's online platform, and scheduling the quizzes. The platform served all sections of MAT060 across the university, giving students problems to prepare for examinations and providing instructors with current data on cohort performance.
 
-## MAT021 — Mathematics I
+## MAT060 — Algebra and Analytic Geometry
 
-A theoretical and practical foundational course integrating algebra, trigonometry, and analytic geometry to introduce the language of mathematics, together with the basic concepts and techniques of differential calculus for real-valued functions of one real variable.
+A foundational course covering the algebra and analytic-geometry portion of MAT021, offered as a standalone subject for students requiring focused preparation in these areas.
 
-**Topics:** elementary algebra and trigonometry; analytic geometry of the plane; functions, limits, and continuity; the derivative and its applications (optimization, related rates, curve sketching); Taylor approximation.
+**Topics:** elementary algebra; trigonometry; analytic geometry of the plane.

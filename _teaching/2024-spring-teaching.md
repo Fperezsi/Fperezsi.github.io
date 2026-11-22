@@ -5,7 +5,8 @@ type: "Term Professor (Instructor of Record)"
 permalink: /teaching/2024-spring-teaching
 venue: "Universidad Técnica Federico Santa María, Department of Mathematics"
 date: 2024-03-01
-location: "Valparaíso, Chile"
+term: "Spring 2024"
+location: "San Joaquín Campus, Santiago, Chile"
 ---
 
 **Term Professor (sole instructor)** at Universidad Técnica Federico Santa María. Full responsibility for the three courses below: lectures, problem sessions, assessment design, exam writing and grading, office hours, and final grade assignment.

@@ -23,7 +23,7 @@ repository               :  "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Felipe Perez Silva" # Name to display in the sidebar
+  name             : "Felipe Pérez Silva" # Name to display in the sidebar
   pronouns         : # example: "she/her"  
   bio              : "PhD student at George Mason University."
   location         : "United States, Virginia" # Location to display in the sidebar
@@ -45,7 +45,7 @@ author:
   #bitbucket        : # Username - Update with your username on the site
   #codepen          : # Username
   #dribbble         : # Username
-  github           : "fperezsi"
+  #github           : "fperezsi"
   #kaggle           : # Username  
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

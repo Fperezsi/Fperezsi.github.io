@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-04-01-finite-element-circus
 venue: "Finite Element Circus, George Mason University"
-date: 2025-04-01
+date: 2025-10-17
 location: "Fairfax, VA, USA"
 ---
 

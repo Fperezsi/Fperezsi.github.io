@@ -5,7 +5,8 @@ type: "Teaching Assistant"
 permalink: /teaching/2019-fall-teaching
 venue: "Universidad Técnica Federico Santa María, Department of Mathematics"
 date: 2019-09-01
-location: "Santiago, Chile"
+term: "Fall 2019"
+location: "San Joaquín Campus, Santiago, Chile"
 ---
 
 **Teaching Assistant** for **MAT060 — Algebra and Analytic Geometry**. Responsibilities included leading problem sessions and grading homework and exams.

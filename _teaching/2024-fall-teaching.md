@@ -5,6 +5,7 @@ type: "Graduate Teaching Assistant"
 permalink: /teaching/2024-fall-teaching
 venue: "George Mason University, Department of Mathematical Sciences"
 date: 2024-09-01
+term: "Fall 2024"
 location: "Fairfax, VA, USA"
 ---
 

@@ -5,7 +5,8 @@ type: "Teaching Assistant"
 permalink: /teaching/2018-fall-teaching
 venue: "Universidad Técnica Federico Santa María, Department of Mathematics"
 date: 2018-09-01
-location: "Santiago, Chile"
+term: "Fall 2018"
+location: "San Joaquín Campus, Santiago, Chile"
 ---
 
 **Teaching Assistant** for **MAT021 — Mathematics I**. Responsibilities included leading problem sessions and grading homework and exams.

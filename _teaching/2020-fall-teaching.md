@@ -5,7 +5,8 @@ type: "Teaching Assistant"
 permalink: /teaching/2020-fall-teaching
 venue: "Universidad Técnica Federico Santa María, Department of Mathematics"
 date: 2020-09-01
-location: "Santiago, Chile"
+term: "Fall 2020"
+location: "San Joaquín Campus, Santiago, Chile"
 ---
 
 **Teaching Assistant** for **MAT061 — Linear Algebra**. Responsibilities included leading problem sessions and grading homework and exams.

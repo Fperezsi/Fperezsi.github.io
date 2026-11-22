@@ -5,7 +5,8 @@ type: "Teaching Assistant"
 permalink: /teaching/2021-spring-teaching
 venue: "Universidad Técnica Federico Santa María, Department of Mathematics"
 date: 2021-03-01
-location: "Santiago, Chile"
+term: "Spring 2021"
+location: "San Joaquín Campus, Santiago, Chile"
 ---
 
 **Teaching Assistant** for **MAT021 — Mathematics I**. Responsibilities included leading problem sessions and grading homework and exams.

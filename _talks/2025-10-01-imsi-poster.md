@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2025-imsi-poster
 venue: "Institute for Mathematical and Statistical Innovation (IMSI), University of Chicago"
-date: 2025-06-01
+date: 2025-10-01
 location: "Chicago, IL, USA"
 ---
 

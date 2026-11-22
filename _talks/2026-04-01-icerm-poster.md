@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2026-icerm-poster
 venue: "Institute for Computational and Experimental Research in Mathematics (ICERM), Brown University"
-date: 2026-02-01
+date: 2026-04-01
 location: "Providence, RI, USA"
 ---
 
